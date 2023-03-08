@@ -1,0 +1,2 @@
+# gitmergetest
+git merge test
